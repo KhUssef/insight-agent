@@ -1,0 +1,265 @@
+order_id,reason,refund
+11,Changed Mind,2200.95
+36,Changed Mind,729.1
+42,Wrong Item,534.73
+66,No Longer Needed,765.52
+116,No Longer Needed,1075.64
+136,Defective,680.77
+138,Defective,675.58
+158,No Longer Needed,2726.38
+189,Defective,1155.78
+192,No Longer Needed,1477.53
+196,Defective,2044.06
+199,Changed Mind,1581.84
+201,Wrong Item,1320.75
+219,Damaged in Transit,1527.75
+245,Changed Mind,3480.9
+252,Damaged in Transit,3243.98
+268,Damaged in Transit,1270.55
+286,No Longer Needed,915.06
+288,No Longer Needed,875.97
+330,Wrong Item,1313.2
+343,No Longer Needed,1362.42
+344,No Longer Needed,1644.01
+355,Damaged in Transit,736.45
+384,No Longer Needed,1786.43
+406,Changed Mind,1095.58
+415,No Longer Needed,852.01
+416,Wrong Item,1060.75
+440,Damaged in Transit,709.26
+442,Wrong Item,827.34
+451,Damaged in Transit,1066.3
+455,Changed Mind,2223.16
+456,Damaged in Transit,908.61
+465,Defective,1558.96
+468,No Longer Needed,3119.46
+482,Damaged in Transit,1294.9
+490,Wrong Item,2103.75
+532,Changed Mind,2534.83
+555,Changed Mind,3068.56
+560,Wrong Item,2721.03
+570,No Longer Needed,1710.41
+581,Defective,1163.47
+593,Wrong Item,1114.26
+610,Defective,1963.08
+614,Damaged in Transit,1493.56
+632,Changed Mind,867.56
+635,Defective,1276.31
+641,Defective,1570.54
+677,Defective,1549.8
+684,Defective,1829.06
+755,Defective,862.82
+756,Damaged in Transit,2045.64
+760,Damaged in Transit,2921.4
+812,Defective,1660.03
+821,Changed Mind,1948.7
+856,No Longer Needed,2400.25
+867,No Longer Needed,1039.1
+879,Defective,1714.0
+886,Wrong Item,960.6
+929,Wrong Item,2129.58
+953,Defective,1966.02
+955,No Longer Needed,1855.36
+958,Defective,1783.94
+962,No Longer Needed,1509.67
+972,Damaged in Transit,1371.97
+979,Damaged in Transit,2125.52
+1040,Defective,758.94
+1041,Defective,1241.94
+1048,Changed Mind,782.5
+1049,No Longer Needed,849.9
+1064,Defective,2315.17
+1079,No Longer Needed,2878.06
+1111,Defective,1044.9
+1121,Defective,1052.8
+1126,Defective,1512.24
+1133,Wrong Item,3084.9
+1138,Wrong Item,2309.47
+1145,Wrong Item,4726.41
+1188,Defective,633.41
+1203,No Longer Needed,1443.59
+1211,Defective,2340.93
+1221,Wrong Item,2924.89
+1274,Defective,1149.42
+1301,Defective,1154.61
+1305,Changed Mind,2637.46
+1313,No Longer Needed,1036.16
+1316,No Longer Needed,1593.06
+1355,Defective,3632.39
+1364,Wrong Item,1850.12
+1380,Damaged in Transit,1442.41
+1396,Wrong Item,1807.48
+1402,Changed Mind,732.98
+1408,Wrong Item,1961.98
+1412,No Longer Needed,2180.41
+1413,Damaged in Transit,1094.59
+1425,No Longer Needed,717.04
+1426,Changed Mind,3400.67
+1449,Changed Mind,2896.26
+1456,Damaged in Transit,1754.72
+1457,Defective,1426.43
+1490,No Longer Needed,2135.11
+1533,Damaged in Transit,1628.68
+1542,Wrong Item,1170.78
+1552,Changed Mind,621.22
+1568,No Longer Needed,546.41
+1570,Defective,871.52
+1581,Defective,783.23
+1589,Damaged in Transit,1750.19
+1609,No Longer Needed,940.25
+1638,Wrong Item,404.83
+1664,Defective,1225.38
+1683,Defective,1068.05
+1689,No Longer Needed,1097.02
+1696,Damaged in Transit,1384.03
+1706,No Longer Needed,953.22
+1734,Defective,1331.59
+1753,Wrong Item,1811.44
+1759,Wrong Item,1143.02
+1774,Defective,1447.6
+1780,Wrong Item,954.81
+1783,Defective,1204.02
+1793,Wrong Item,863.08
+1827,Damaged in Transit,1617.45
+1872,No Longer Needed,749.26
+1875,Damaged in Transit,1420.66
+1889,Damaged in Transit,670.5
+1893,Wrong Item,1344.2
+1900,Damaged in Transit,2565.61
+1912,Defective,1496.27
+1929,No Longer Needed,1018.72
+1933,Damaged in Transit,615.47
+1938,Defective,1106.03
+1985,Wrong Item,1758.79
+1987,No Longer Needed,1188.54
+1993,No Longer Needed,921.81
+2007,Defective,1184.71
+2023,Changed Mind,937.72
+2027,Defective,811.75
+2028,Damaged in Transit,1091.63
+2029,Damaged in Transit,784.03
+2031,Wrong Item,1247.68
+2036,Wrong Item,1190.65
+2038,Defective,1470.25
+2039,No Longer Needed,1180.52
+2040,Defective,559.88
+2088,No Longer Needed,877.54
+2102,Damaged in Transit,759.81
+2110,Wrong Item,1492.16
+2137,Defective,1334.69
+2189,Damaged in Transit,1033.42
+2191,Wrong Item,2270.27
+2214,Damaged in Transit,844.48
+2222,Wrong Item,901.08
+2230,Changed Mind,1116.78
+2234,Damaged in Transit,532.54
+2238,Damaged in Transit,966.41
+2253,Damaged in Transit,1513.16
+2262,Wrong Item,2371.8
+2268,Damaged in Transit,3367.39
+2308,No Longer Needed,1330.13
+2310,Changed Mind,1883.31
+2320,Damaged in Transit,571.83
+2328,No Longer Needed,1133.3
+2330,Damaged in Transit,1654.6
+2331,Damaged in Transit,1199.44
+2332,Damaged in Transit,1037.82
+2334,Wrong Item,1655.65
+2336,Changed Mind,1453.66
+2345,Defective,2065.27
+2347,Wrong Item,1677.88
+2351,Damaged in Transit,2876.23
+2409,Changed Mind,1779.14
+2432,Defective,1855.18
+2443,Defective,1160.38
+2471,Wrong Item,1012.36
+2481,Wrong Item,2052.92
+2508,Damaged in Transit,626.53
+2532,No Longer Needed,1227.76
+2537,No Longer Needed,691.99
+2539,Defective,774.32
+2565,Damaged in Transit,1566.1
+2582,Damaged in Transit,622.71
+2627,Wrong Item,791.26
+2628,Defective,1755.61
+2629,Damaged in Transit,1872.03
+2632,Damaged in Transit,706.79
+2633,Wrong Item,1631.51
+2635,Changed Mind,1122.17
+2636,Wrong Item,1218.71
+2637,Defective,684.71
+2638,No Longer Needed,930.47
+2639,Changed Mind,933.71
+2661,Defective,1037.49
+2667,No Longer Needed,2102.85
+2675,Changed Mind,1709.15
+2678,Wrong Item,1332.8
+2702,No Longer Needed,1968.96
+2716,No Longer Needed,1866.73
+2752,Defective,1467.03
+2758,Damaged in Transit,947.09
+2759,Changed Mind,2347.7
+2762,Defective,522.06
+2805,No Longer Needed,1680.98
+2809,Wrong Item,896.29
+2815,Wrong Item,1430.57
+2830,Defective,661.52
+2852,Defective,2391.72
+2859,Wrong Item,1741.26
+2861,Changed Mind,1860.26
+2877,Changed Mind,1598.58
+2910,Defective,784.45
+2927,No Longer Needed,1911.95
+2928,Changed Mind,2975.83
+2939,Wrong Item,1897.81
+2957,Wrong Item,2219.09
+2991,No Longer Needed,1030.37
+2999,Changed Mind,1726.77
+3001,No Longer Needed,3648.67
+3012,No Longer Needed,1987.88
+3020,Damaged in Transit,3430.2
+3044,Changed Mind,851.36
+3046,Damaged in Transit,950.61
+3073,Damaged in Transit,934.08
+3079,Changed Mind,1138.42
+3102,Defective,2051.49
+3119,Changed Mind,843.24
+3121,No Longer Needed,801.64
+3132,Wrong Item,1099.53
+3141,Wrong Item,1570.81
+3157,Changed Mind,1626.11
+3174,Wrong Item,2262.24
+3178,Damaged in Transit,3158.64
+3181,Defective,2336.09
+3194,Changed Mind,3107.15
+3198,Damaged in Transit,1500.77
+3199,No Longer Needed,1440.1
+3216,Defective,663.93
+3234,Defective,3541.69
+3246,No Longer Needed,2046.27
+3248,Wrong Item,3418.69
+3258,No Longer Needed,1703.71
+3275,Defective,2278.25
+3310,Changed Mind,900.26
+3314,Damaged in Transit,1253.01
+3322,Damaged in Transit,1738.78
+3323,Damaged in Transit,2243.12
+3333,Changed Mind,821.28
+3336,Changed Mind,895.12
+3339,Wrong Item,1156.01
+3348,Defective,1226.76
+3357,Changed Mind,610.98
+3384,Damaged in Transit,1336.97
+3403,Defective,1000.74
+3409,Defective,1553.21
+3413,Defective,846.04
+3419,Defective,703.58
+3424,Damaged in Transit,1099.01
+3435,Wrong Item,568.85
+3440,No Longer Needed,463.72
+3450,Wrong Item,588.35
+3451,Wrong Item,2204.91
+3547,Wrong Item,3678.78
+3567,Changed Mind,985.7
+3571,Wrong Item,1265.72
+3580,Defective,517.73

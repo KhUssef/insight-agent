@@ -1,0 +1,16 @@
+product_id,product,category,unit_cost,list_price
+1,Trail Backpack,Outdoor,32.32,65.71
+2,Camping Tent,Outdoor,72.02,109.62
+3,Hiking Boots,Outdoor,52.88,100.6
+4,Wireless Earbuds,Electronics,81.02,140.9
+5,Smart Speaker,Electronics,51.87,95.27
+6,Action Camera,Electronics,70.16,130.09
+7,Rain Jacket,Clothing,29.54,65.17
+8,Merino Sweater,Clothing,28.21,57.72
+9,Running Shorts,Clothing,52.17,82.03
+10,Cast Iron Pan,Home,33.39,73.57
+11,Desk Lamp,Home,42.65,69.09
+12,Throw Blanket,Home,26.9,45.96
+13,Coffee Beans,Grocery,24.27,45.05
+14,Olive Oil,Grocery,31.59,53.55
+15,Protein Bars,Grocery,21.68,44.73

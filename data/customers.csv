@@ -1,0 +1,401 @@
+customer_id,region,segment,signup_date
+1,North,Consumer,2025-09-29
+2,North,Consumer,2024-08-26
+3,North,Small Business,2025-01-19
+4,North,Small Business,2024-12-06
+5,North,Consumer,2025-01-08
+6,North,Small Business,2024-08-01
+7,North,Enterprise,2025-12-06
+8,North,Consumer,2025-12-05
+9,North,Consumer,2025-12-10
+10,North,Consumer,2025-05-20
+11,North,Small Business,2024-05-24
+12,North,Small Business,2025-05-17
+13,North,Small Business,2024-05-05
+14,North,Enterprise,2024-09-20
+15,North,Enterprise,2024-03-25
+16,North,Enterprise,2024-11-15
+17,North,Small Business,2025-06-22
+18,North,Consumer,2025-04-14
+19,North,Consumer,2025-09-27
+20,North,Enterprise,2025-06-09
+21,North,Enterprise,2024-02-11
+22,North,Enterprise,2024-10-27
+23,North,Small Business,2025-04-09
+24,North,Small Business,2025-05-18
+25,North,Small Business,2024-02-17
+26,North,Enterprise,2024-07-03
+27,North,Small Business,2024-01-13
+28,North,Small Business,2025-05-19
+29,North,Consumer,2024-12-13
+30,North,Consumer,2025-10-26
+31,North,Enterprise,2024-08-12
+32,North,Small Business,2024-03-24
+33,North,Enterprise,2024-01-04
+34,North,Enterprise,2024-05-11
+35,North,Small Business,2024-11-21
+36,North,Enterprise,2024-06-08
+37,North,Enterprise,2025-02-06
+38,North,Consumer,2024-10-23
+39,North,Enterprise,2025-12-28
+40,North,Enterprise,2024-09-18
+41,North,Enterprise,2025-06-23
+42,North,Consumer,2025-08-06
+43,North,Consumer,2025-07-27
+44,North,Consumer,2024-04-13
+45,North,Enterprise,2025-10-07
+46,North,Enterprise,2024-01-17
+47,North,Small Business,2025-04-24
+48,North,Enterprise,2025-09-16
+49,North,Enterprise,2024-04-28
+50,North,Consumer,2025-10-08
+51,North,Consumer,2024-03-27
+52,North,Small Business,2025-01-20
+53,North,Small Business,2024-05-02
+54,North,Consumer,2025-12-01
+55,North,Small Business,2024-01-23
+56,North,Small Business,2024-10-13
+57,North,Consumer,2024-10-03
+58,North,Consumer,2024-04-12
+59,North,Enterprise,2024-07-13
+60,North,Enterprise,2024-04-28
+61,North,Enterprise,2025-06-19
+62,North,Consumer,2024-07-07
+63,North,Consumer,2024-04-15
+64,North,Enterprise,2024-02-19
+65,North,Small Business,2025-08-27
+66,North,Small Business,2024-07-21
+67,North,Enterprise,2024-03-03
+68,North,Enterprise,2024-05-31
+69,North,Enterprise,2025-04-06
+70,North,Enterprise,2024-01-02
+71,North,Small Business,2025-07-19
+72,North,Enterprise,2025-06-01
+73,North,Small Business,2025-07-19
+74,North,Enterprise,2025-11-11
+75,North,Enterprise,2025-09-17
+76,North,Small Business,2024-05-04
+77,North,Enterprise,2024-08-11
+78,North,Enterprise,2025-12-11
+79,North,Consumer,2024-05-21
+80,North,Enterprise,2025-05-15
+81,North,Consumer,2025-11-18
+82,North,Enterprise,2025-04-11
+83,North,Small Business,2025-03-17
+84,North,Enterprise,2024-10-02
+85,North,Consumer,2024-01-31
+86,North,Small Business,2025-01-11
+87,North,Enterprise,2025-07-17
+88,North,Small Business,2025-07-10
+89,North,Consumer,2024-01-19
+90,North,Consumer,2024-01-19
+91,North,Small Business,2025-03-16
+92,North,Consumer,2024-03-20
+93,North,Small Business,2025-07-26
+94,North,Consumer,2025-09-25
+95,North,Small Business,2024-01-26
+96,North,Small Business,2025-07-22
+97,North,Small Business,2024-06-05
+98,North,Small Business,2025-12-14
+99,North,Consumer,2024-10-30
+100,North,Enterprise,2025-05-28
+101,South,Small Business,2025-08-11
+102,South,Small Business,2025-01-11
+103,South,Consumer,2024-08-11
+104,South,Consumer,2025-04-11
+105,South,Enterprise,2025-03-16
+106,South,Consumer,2025-01-11
+107,South,Enterprise,2024-08-25
+108,South,Enterprise,2025-09-15
+109,South,Enterprise,2024-07-03
+110,South,Enterprise,2025-08-25
+111,South,Enterprise,2025-04-19
+112,South,Enterprise,2024-05-26
+113,South,Consumer,2025-08-02
+114,South,Small Business,2024-11-15
+115,South,Small Business,2024-11-23
+116,South,Small Business,2025-06-09
+117,South,Consumer,2025-01-24
+118,South,Small Business,2025-03-17
+119,South,Enterprise,2024-07-22
+120,South,Small Business,2024-02-11
+121,South,Small Business,2024-05-22
+122,South,Consumer,2025-04-12
+123,South,Small Business,2025-07-09
+124,South,Small Business,2025-10-30
+125,South,Enterprise,2025-11-11
+126,South,Enterprise,2025-04-04
+127,South,Small Business,2025-02-12
+128,South,Consumer,2025-09-26
+129,South,Enterprise,2025-05-08
+130,South,Small Business,2024-02-04
+131,South,Enterprise,2025-02-23
+132,South,Small Business,2024-10-02
+133,South,Enterprise,2024-07-19
+134,South,Small Business,2025-05-16
+135,South,Enterprise,2024-07-01
+136,South,Small Business,2024-03-08
+137,South,Consumer,2024-08-30
+138,South,Small Business,2024-11-08
+139,South,Enterprise,2025-08-11
+140,South,Small Business,2025-06-25
+141,South,Consumer,2025-02-13
+142,South,Enterprise,2024-08-12
+143,South,Small Business,2024-11-24
+144,South,Consumer,2025-03-23
+145,South,Consumer,2024-04-14
+146,South,Consumer,2025-05-23
+147,South,Small Business,2025-03-01
+148,South,Enterprise,2025-10-10
+149,South,Consumer,2025-05-16
+150,South,Consumer,2024-04-03
+151,South,Enterprise,2024-12-21
+152,South,Enterprise,2024-09-27
+153,South,Enterprise,2025-05-20
+154,South,Enterprise,2024-02-26
+155,South,Small Business,2025-01-13
+156,South,Consumer,2025-04-03
+157,South,Enterprise,2024-10-10
+158,South,Small Business,2024-07-28
+159,South,Consumer,2025-07-06
+160,South,Consumer,2025-06-01
+161,South,Small Business,2025-11-22
+162,South,Consumer,2024-06-24
+163,South,Small Business,2025-07-09
+164,South,Consumer,2025-06-14
+165,South,Enterprise,2025-05-08
+166,South,Enterprise,2024-10-12
+167,South,Consumer,2024-04-12
+168,South,Small Business,2024-02-03
+169,South,Small Business,2024-05-07
+170,South,Small Business,2024-01-25
+171,South,Enterprise,2024-01-03
+172,South,Enterprise,2024-10-12
+173,South,Consumer,2024-08-01
+174,South,Enterprise,2024-11-19
+175,South,Small Business,2025-02-04
+176,South,Small Business,2024-03-31
+177,South,Enterprise,2025-02-16
+178,South,Small Business,2025-10-11
+179,South,Consumer,2024-03-20
+180,South,Consumer,2024-04-08
+181,South,Consumer,2025-05-27
+182,South,Enterprise,2025-09-12
+183,South,Enterprise,2024-05-13
+184,South,Consumer,2024-07-08
+185,South,Consumer,2025-01-17
+186,South,Consumer,2024-07-20
+187,South,Consumer,2025-01-12
+188,South,Consumer,2025-12-19
+189,South,Small Business,2024-11-16
+190,South,Small Business,2025-06-25
+191,South,Enterprise,2025-05-14
+192,South,Consumer,2024-04-28
+193,South,Consumer,2025-05-20
+194,South,Enterprise,2024-12-02
+195,South,Enterprise,2024-09-03
+196,South,Consumer,2025-03-04
+197,South,Small Business,2024-04-17
+198,South,Consumer,2024-01-26
+199,South,Consumer,2025-02-22
+200,South,Enterprise,2025-12-22
+201,East,Enterprise,2024-10-13
+202,East,Enterprise,2024-08-09
+203,East,Small Business,2024-01-09
+204,East,Enterprise,2024-02-29
+205,East,Enterprise,2024-05-11
+206,East,Consumer,2025-06-10
+207,East,Consumer,2024-01-14
+208,East,Consumer,2024-10-22
+209,East,Consumer,2025-10-29
+210,East,Consumer,2024-01-24
+211,East,Enterprise,2024-11-21
+212,East,Enterprise,2024-05-03
+213,East,Consumer,2025-11-21
+214,East,Small Business,2025-12-04
+215,East,Consumer,2024-06-05
+216,East,Small Business,2025-05-23
+217,East,Enterprise,2024-11-25
+218,East,Consumer,2025-09-18
+219,East,Consumer,2025-05-08
+220,East,Enterprise,2025-07-11
+221,East,Enterprise,2025-11-17
+222,East,Consumer,2024-07-12
+223,East,Consumer,2025-12-05
+224,East,Small Business,2024-04-11
+225,East,Small Business,2025-12-02
+226,East,Enterprise,2024-08-23
+227,East,Consumer,2024-11-17
+228,East,Enterprise,2025-11-04
+229,East,Small Business,2024-04-23
+230,East,Enterprise,2025-06-27
+231,East,Small Business,2025-06-29
+232,East,Consumer,2024-05-10
+233,East,Enterprise,2025-05-06
+234,East,Enterprise,2025-03-17
+235,East,Consumer,2025-08-31
+236,East,Enterprise,2024-09-26
+237,East,Small Business,2025-05-28
+238,East,Consumer,2024-12-08
+239,East,Small Business,2024-06-22
+240,East,Consumer,2025-07-12
+241,East,Small Business,2025-01-28
+242,East,Consumer,2025-06-29
+243,East,Enterprise,2025-06-14
+244,East,Consumer,2025-03-08
+245,East,Small Business,2024-05-28
+246,East,Small Business,2025-08-22
+247,East,Consumer,2024-07-21
+248,East,Small Business,2024-04-11
+249,East,Enterprise,2024-06-17
+250,East,Small Business,2024-05-11
+251,East,Small Business,2025-01-16
+252,East,Enterprise,2025-03-04
+253,East,Consumer,2025-11-25
+254,East,Enterprise,2025-06-11
+255,East,Consumer,2025-08-22
+256,East,Small Business,2025-01-11
+257,East,Small Business,2024-08-12
+258,East,Enterprise,2024-03-23
+259,East,Consumer,2024-06-06
+260,East,Enterprise,2025-09-21
+261,East,Enterprise,2024-03-11
+262,East,Consumer,2025-01-22
+263,East,Small Business,2024-10-13
+264,East,Small Business,2025-07-05
+265,East,Consumer,2025-08-04
+266,East,Enterprise,2024-04-20
+267,East,Consumer,2024-05-05
+268,East,Consumer,2025-11-10
+269,East,Small Business,2025-09-01
+270,East,Enterprise,2025-03-05
+271,East,Small Business,2025-01-13
+272,East,Small Business,2024-05-13
+273,East,Consumer,2025-08-22
+274,East,Consumer,2024-03-11
+275,East,Enterprise,2024-11-28
+276,East,Small Business,2025-05-12
+277,East,Consumer,2025-09-03
+278,East,Consumer,2025-08-04
+279,East,Small Business,2024-06-17
+280,East,Small Business,2025-12-22
+281,East,Consumer,2024-09-26
+282,East,Consumer,2024-07-04
+283,East,Enterprise,2024-12-01
+284,East,Small Business,2025-11-24
+285,East,Enterprise,2024-04-28
+286,East,Enterprise,2025-06-21
+287,East,Consumer,2025-01-20
+288,East,Enterprise,2025-07-03
+289,East,Consumer,2024-03-03
+290,East,Small Business,2025-07-24
+291,East,Consumer,2025-06-06
+292,East,Enterprise,2024-06-22
+293,East,Small Business,2024-11-10
+294,East,Small Business,2024-08-20
+295,East,Enterprise,2025-11-04
+296,East,Consumer,2025-10-08
+297,East,Enterprise,2025-09-11
+298,East,Enterprise,2025-01-21
+299,East,Small Business,2025-06-16
+300,East,Enterprise,2024-09-11
+301,West,Enterprise,2024-01-10
+302,West,Enterprise,2025-02-27
+303,West,Consumer,2025-10-18
+304,West,Enterprise,2024-02-07
+305,West,Enterprise,2024-04-26
+306,West,Consumer,2025-12-30
+307,West,Small Business,2025-08-06
+308,West,Consumer,2024-07-27
+309,West,Enterprise,2025-08-27
+310,West,Small Business,2024-07-08
+311,West,Enterprise,2024-04-08
+312,West,Enterprise,2024-08-26
+313,West,Enterprise,2025-01-02
+314,West,Enterprise,2025-07-12
+315,West,Small Business,2024-01-05
+316,West,Consumer,2025-02-05
+317,West,Small Business,2024-07-15
+318,West,Enterprise,2024-03-27
+319,West,Small Business,2024-04-03
+320,West,Enterprise,2024-06-27
+321,West,Consumer,2025-08-13
+322,West,Small Business,2024-05-05
+323,West,Small Business,2024-10-25
+324,West,Enterprise,2025-06-26
+325,West,Consumer,2024-10-09
+326,West,Consumer,2024-03-04
+327,West,Small Business,2024-03-06
+328,West,Small Business,2024-05-28
+329,West,Small Business,2024-10-12
+330,West,Small Business,2025-03-01
+331,West,Enterprise,2025-07-18
+332,West,Enterprise,2025-11-02
+333,West,Consumer,2025-03-21
+334,West,Enterprise,2025-08-12
+335,West,Consumer,2025-04-24
+336,West,Small Business,2024-01-07
+337,West,Consumer,2024-07-22
+338,West,Enterprise,2025-12-05
+339,West,Enterprise,2024-07-29
+340,West,Consumer,2024-06-15
+341,West,Enterprise,2025-04-02
+342,West,Consumer,2024-09-25
+343,West,Small Business,2025-04-21
+344,West,Enterprise,2025-10-17
+345,West,Consumer,2024-06-04
+346,West,Small Business,2024-04-25
+347,West,Consumer,2025-06-17
+348,West,Consumer,2024-12-13
+349,West,Enterprise,2025-11-09
+350,West,Small Business,2025-06-12
+351,West,Consumer,2024-09-19
+352,West,Enterprise,2025-10-21
+353,West,Enterprise,2024-02-13
+354,West,Consumer,2025-03-28
+355,West,Enterprise,2024-04-02
+356,West,Consumer,2024-10-10
+357,West,Small Business,2025-05-03
+358,West,Consumer,2024-12-11
+359,West,Enterprise,2025-12-21
+360,West,Consumer,2024-12-27
+361,West,Consumer,2025-11-11
+362,West,Enterprise,2025-09-17
+363,West,Enterprise,2025-11-26
+364,West,Small Business,2025-06-07
+365,West,Consumer,2025-12-07
+366,West,Small Business,2024-10-31
+367,West,Small Business,2024-02-12
+368,West,Consumer,2024-09-29
+369,West,Small Business,2024-12-10
+370,West,Enterprise,2025-02-13
+371,West,Small Business,2025-07-05
+372,West,Consumer,2024-02-12
+373,West,Enterprise,2024-05-28
+374,West,Enterprise,2024-09-05
+375,West,Consumer,2024-10-04
+376,West,Enterprise,2024-02-21
+377,West,Enterprise,2025-12-31
+378,West,Small Business,2025-02-10
+379,West,Consumer,2024-07-11
+380,West,Small Business,2024-11-16
+381,West,Consumer,2025-07-26
+382,West,Consumer,2025-07-31
+383,West,Enterprise,2024-04-06
+384,West,Consumer,2024-03-21
+385,West,Consumer,2024-06-11
+386,West,Enterprise,2024-07-26
+387,West,Consumer,2025-07-23
+388,West,Consumer,2025-08-01
+389,West,Enterprise,2024-11-13
+390,West,Consumer,2025-12-04
+391,West,Consumer,2024-10-09
+392,West,Small Business,2025-03-21
+393,West,Enterprise,2025-07-13
+394,West,Enterprise,2025-02-06
+395,West,Enterprise,2024-05-06
+396,West,Enterprise,2024-09-20
+397,West,Small Business,2024-10-24
+398,West,Small Business,2024-05-18
+399,West,Consumer,2025-10-04
+400,West,Enterprise,2025-02-26
