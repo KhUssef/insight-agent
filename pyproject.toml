@@ -45,6 +45,9 @@ insight_agent = ["py.typed", "static/*.html", "static/assets/*"]
 [tool.pytest.ini_options]
 testpaths = ["tests"]
 asyncio_mode = "auto"
+# The evals package lives at the repository root and is not installed; put
+# the root on sys.path so the tests import it under any pytest invocation.
+pythonpath = ["."]
 
 [tool.ruff]
 line-length = 100
